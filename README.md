@@ -1,5 +1,4 @@
 # CANDU Reactor Temperature Monitor Simulation
-[Reactor-Simulator-Explaination.mp3](https://github.com/user-attachments/files/22632205/Reactor-Simulator-Explaination.mp3)
 
 ## 🔎 Introduction
 
