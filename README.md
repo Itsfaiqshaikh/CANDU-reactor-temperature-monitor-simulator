@@ -1,4 +1,4 @@
-# 📘 Documentation: CANDU Reactor Temperature Monitor Simulation
+# CANDU Reactor Temperature Monitor Simulation
 
 ## 🔎 Introduction
 
