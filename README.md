@@ -117,6 +117,9 @@ While real reactors involve extremely complex physics and safety systems, this s
 If you’ve ever wondered *“what does a reactor actually do?”* — this program makes that invisible process visible.
 
 
-https://github.com/user-attachments/assets/514a8068-7699-4ad1-8743-84a4d5d4c1b4
+
+https://github.com/user-attachments/assets/d2b24b97-738c-4934-b911-de536948c0a8
+
+
 
 
