@@ -120,24 +120,16 @@ If you’ve ever wondered *“what does a reactor actually do?”* — this prog
 
 
 
-https://github.com/user-attachments/assets/be2efab0-7897-48cf-b404-a817a3ac9187
+https://github.com/user-attachments/assets/0b6a9725-3381-4fd4-a882-cf7f9e4e17bf
+
+
+
 
 
 
 
 ---
 
-
-
-
-
-
-
-Credits:
-
-Output Video First Clip from 💥 𝚒𝚕@Dribbble.com
-
-Voice-over Generated with ElevenLabs.io
 
 
 
