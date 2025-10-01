@@ -35,7 +35,8 @@ The purpose of this program is to:
 
    <img width="278" height="197" alt="newtonsLaw" src="https://github.com/user-attachments/assets/abc2fda6-2b05-445b-9ee0-19afe96bb39c" />
 
-    ![Frame 1](https://github.com/user-attachments/assets/909ff8b9-5593-4e0e-90dc-7f86aabf41f0)
+   ![Frame 1 (1)](https://github.com/user-attachments/assets/62604403-918e-4c5c-bb5a-1f5f403fef9c)
+
 
    Equations are solved using `scipy.integrate.odeint`, which computes how temperatures evolve over time.
 
