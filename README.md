@@ -115,3 +115,8 @@ This program gives you a **front-row seat** to the inner workings of a nuclear r
 While real reactors involve extremely complex physics and safety systems, this simplified model captures the **essence of reactor cooling**: fuel gets hot, coolant takes the heat away, and stability is achieved through balance.
 
 If you’ve ever wondered *“what does a reactor actually do?”* — this program makes that invisible process visible.
+
+
+https://github.com/user-attachments/assets/514a8068-7699-4ad1-8743-84a4d5d4c1b4
+
+
