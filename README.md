@@ -38,7 +38,6 @@ The purpose of this program is to:
    ![Frame 1 (1)](https://github.com/user-attachments/assets/62604403-918e-4c5c-bb5a-1f5f403fef9c)
 
 
-   Equations are solved using `scipy.integrate.odeint`, which computes how temperatures evolve over time.
 
 3. **Inputs / Constants**
 
