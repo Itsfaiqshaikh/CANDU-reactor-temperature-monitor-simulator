@@ -75,7 +75,7 @@ The purpose of this program is to:
 * 🔵 **Coolant temperature monitor** (blue text on GUI).
 * 🖼️ **Background image** to make the GUI visually appealing (e.g., reactor schematic).
 * 📊 **Embedded live graph** that updates along with simulation progress.
-* ⏱️ **Real-time updates** every 200 ms.
+* ⏱️ **Real-time updates** every 7.2 s.
 * 🎓 **Educational value**: Helps learners visualize how nuclear fuel and coolant interact in a reactor environment.
 
 ---
