@@ -59,7 +59,7 @@ The purpose of this program is to:
    * Built with **Tkinter**.
    * Displays a **background image** (e.g., diagram of a CANDU reactor).
    * Two text overlays show **fuel temperature** (red) and **coolant temperature** (blue).
-   * Values update live every 200 ms.
+   * Values update live every 7.2 s.
 
 6. **Graph Visualization**
 
