@@ -135,9 +135,9 @@ https://github.com/user-attachments/assets/be2efab0-7897-48cf-b404-a817a3ac9187
 
 Credits:
 
-Output Video Clip by 💥 𝚒𝚕@Dribbble.com
+Output Video First Clip from 💥 𝚒𝚕@Dribbble.com
 
-Voice Over Generated with ElevenLabs AI tool
+Voice-over Generated with ElevenLabs.io
 
 
 
